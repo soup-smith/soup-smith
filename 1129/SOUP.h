@@ -85,4 +85,4 @@ void QuickSort(int *a,int low,int high){
 	}
 	
 }
-#endif
+#endif//快速排序————————————————————————————————————————————————————
